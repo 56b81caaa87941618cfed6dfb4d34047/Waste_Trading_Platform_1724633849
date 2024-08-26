@@ -89,6 +89,18 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           </li>
         </ul>
 
+        <!-- Hadoken Button -->
+        <div class="flex-1 flex justify-end items-center ml-4">
+          <button
+            id="hadoken-button"
+            class="btn-sm transition duration-150 ease-in-out text-white bg-purple-600 hover:bg-purple-700 rounded-md px-4 py-2"
+          >
+            Hadoken
+          </button>
+        </div>
+
+        <!-- Mobile Menu -->
+
         <!-- Mobile Menu -->
         <div class="md:hidden flex items-center ml-4">
           <button
