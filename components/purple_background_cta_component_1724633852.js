@@ -31,17 +31,17 @@ INSTRUCTION: It is centered on the page and includes a gradient-based title, a s
         <div id="content" class="max-w-3xl mx-auto text-center">
           <div id="content-subtitle" class="flex">
             <div id="content-subtitle-text" class="flex-1 font-medium bg-clip-text pb-3 text-transparent bg-gradient-to-r from-purple-500 to-purple-200">
-              CTA_CONTENT_SUBTITLE
+              Discover the Value in Waste
             </div>
           </div>
           <div class="flex" id="content-title-container">
             <h2 id="content-title" class="flex-1 h2 bg-clip-text pb-4 bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60">
-              CTA_TITLE
+              Turn Trash into Treasure
             </h2>
           </div>
           <div class="flex" id="content-body-container">
             <p id="content-body" class="flex-1 text-lg mb-8 text-slate-400">
-              CTA_BODY
+              Join our revolutionary marketplace where one person's garbage becomes another's gold. Buy, sell, and trade unwanted items to reduce waste and find hidden gems.
             </p>
           </div>
           <a id="content-cta-button" href="#0" class="btn transition duration-150 ease-in-out group text-slate-900 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-white">
