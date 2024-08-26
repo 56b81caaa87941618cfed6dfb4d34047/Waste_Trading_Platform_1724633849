@@ -18,5 +18,11 @@
         "content": "On it, adding a button that says \"Hadoken\".",
         "timestamp": "26082024010010",
         "message_id": "guest26082024005805"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want the 'Hadoken' button to be positioned on the page?\", \"option1\": \"Above the fold (Top section of the website visible without scrolling)\", \"option2\": \"Below the fold (Section of the website that requires scrolling to see)\"}, {\"question 2\": \"What action should occur when the 'Hadoken' button is clicked?\", \"option1\": \"Display an informational pop-up\", \"option2\": \"Redirect to another page\"}], \"input_token_count\": 269, \"output_token_count\": 109, \"time_taken\": \"0:00:03.411880\"}",
+        "timestamp": "26082024010015",
+        "message_id": "guest26082024005805"
     }
 ]
