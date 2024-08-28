@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, replacing the current image with a toilet.",
+        "message_id": "guest28082024142134",
+        "timestamp": "28082024142135",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change the image to a toilet",
         "message_id": "guest28082024142134",
