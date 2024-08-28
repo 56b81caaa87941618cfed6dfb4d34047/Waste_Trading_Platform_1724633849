@@ -1,64 +1,98 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1724633852",
+        "role": "chat_acknowledge",
+        "content": "Got it. Changing the image to a dinosaur.",
+        "message_id": "guest28082024142013",
+        "timestamp": "28082024142014",
         "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button that says hadoken",
-        "timestamp": "26082024010009",
-        "message_id": "guest26082024005805"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "On it, adding a button that says \"Hadoken\".",
-        "timestamp": "26082024010010",
-        "message_id": "guest26082024005805"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want the 'Hadoken' button to be positioned on the page?\", \"option1\": \"Above the fold (Top section of the website visible without scrolling)\", \"option2\": \"Below the fold (Section of the website that requires scrolling to see)\"}, {\"question 2\": \"What action should occur when the 'Hadoken' button is clicked?\", \"option1\": \"Display an informational pop-up\", \"option2\": \"Redirect to another page\"}], \"input_token_count\": 269, \"output_token_count\": 109, \"time_taken\": \"0:00:03.411880\"}",
-        "timestamp": "26082024010015",
-        "message_id": "guest26082024005805"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Learn More' button next to 'Hadoken' for newcomers to understand its purpose\", \"checked\": false}, {\"feature\": \"Implement a feedback form pop-up when 'Hadoken' button is pressed, to collect user satisfaction data\", \"checked\": false}, {\"feature\": \"Integrate a visual animation when the 'Hadoken' button is clicked, enhancing user interaction\", \"checked\": true}, {\"feature\": \"Place a shareable link feature next to the 'Hadoken' button, allowing users to share this action on social media\", \"checked\": false}, {\"feature\": \"Enable customizable sound effects for the 'Hadoken' button to increase user engagement\", \"checked\": false}, {\"feature\": \"Add a tooltip with a brief description when users hover over the 'Hadoken' button, for better clarity\", \"checked\": true}], \"input_token_count\": 223, \"output_token_count\": 190, \"time_taken\": \"0:00:05.912114\"}",
-        "timestamp": "26082024010017",
-        "message_id": "guest26082024005805"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Got it, adding a contact form for emailing Santa now.",
-        "timestamp": "28082024141855",
-        "message_id": "guest28082024141853"
-    },
-    {
-        "role": "user",
-        "content": "Add a form to contact santa via email",
-        "timestamp": "28082024141855",
-        "message_id": "guest28082024141853"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the contact form to be accessible from a specific section of the app or available as a floating action button on all pages?\", \"option1\": \"Specific section of the app\", \"option2\": \"Floating action button on all pages\"}, {\"question 2\": \"Do you have a preference for the fields to be included in the contact form? (e.g., Name, Email, Message)\", \"option1\": \"Yes, I have specific fields in mind\", \"option2\": \"No, standard fields are fine (Name, Email, Message)\"}], \"input_token_count\": 270, \"output_token_count\": 129, \"time_taken\": \"0:00:03.575450\"}",
-        "timestamp": "28082024141859",
-        "message_id": "guest28082024141853"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Integrate CAPTCHA verification to prevent spam submissions\", \"checked\": true}, {\"feature\": \"Add a confirmation page or message after successful form submission\", \"checked\": true}, {\"feature\": \"Enable file attachment in the form for users to send pictures to Santa\", \"checked\": false}, {\"feature\": \"Implement an auto-reply feature to acknowledge receipt of the email\", \"checked\": true}, {\"feature\": \"Add a FAQ section on the contact page to answer common questions\", \"checked\": false}, {\"feature\": \"Incorporate a live chat option for instant communication\", \"checked\": false}], \"input_token_count\": 224, \"output_token_count\": 138, \"time_taken\": \"0:00:03.893518\"}",
-        "timestamp": "28082024141859",
-        "message_id": "guest28082024141853"
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "Change the image to a dinosaur",
+        "message_id": "guest28082024142013",
         "timestamp": "28082024142013",
+        "component_file_name": "purple_background_cta_component_1724633852",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Integrate CAPTCHA verification to prevent spam submissions\", \"checked\": true}, {\"feature\": \"Add a confirmation page or message after successful form submission\", \"checked\": true}, {\"feature\": \"Enable file attachment in the form for users to send pictures to Santa\", \"checked\": false}, {\"feature\": \"Implement an auto-reply feature to acknowledge receipt of the email\", \"checked\": true}, {\"feature\": \"Add a FAQ section on the contact page to answer common questions\", \"checked\": false}, {\"feature\": \"Incorporate a live chat option for instant communication\", \"checked\": false}], \"input_token_count\": 224, \"output_token_count\": 138, \"time_taken\": \"0:00:03.893518\"}",
+        "message_id": "guest28082024141853",
+        "timestamp": "28082024141859",
+        "component_file_name": "purple_background_cta_component_1724633852",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the contact form to be accessible from a specific section of the app or available as a floating action button on all pages?\", \"option1\": \"Specific section of the app\", \"option2\": \"Floating action button on all pages\"}, {\"question 2\": \"Do you have a preference for the fields to be included in the contact form? (e.g., Name, Email, Message)\", \"option1\": \"Yes, I have specific fields in mind\", \"option2\": \"No, standard fields are fine (Name, Email, Message)\"}], \"input_token_count\": 270, \"output_token_count\": 129, \"time_taken\": \"0:00:03.575450\"}",
+        "message_id": "guest28082024141853",
+        "timestamp": "28082024141859",
+        "component_file_name": "purple_background_cta_component_1724633852",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Add a form to contact santa via email",
+        "message_id": "guest28082024141853",
+        "timestamp": "28082024141855",
+        "component_file_name": "purple_background_cta_component_1724633852",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, adding a contact form for emailing Santa now.",
+        "message_id": "guest28082024141853",
+        "timestamp": "28082024141855",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Learn More' button next to 'Hadoken' for newcomers to understand its purpose\", \"checked\": false}, {\"feature\": \"Implement a feedback form pop-up when 'Hadoken' button is pressed, to collect user satisfaction data\", \"checked\": false}, {\"feature\": \"Integrate a visual animation when the 'Hadoken' button is clicked, enhancing user interaction\", \"checked\": true}, {\"feature\": \"Place a shareable link feature next to the 'Hadoken' button, allowing users to share this action on social media\", \"checked\": false}, {\"feature\": \"Enable customizable sound effects for the 'Hadoken' button to increase user engagement\", \"checked\": false}, {\"feature\": \"Add a tooltip with a brief description when users hover over the 'Hadoken' button, for better clarity\", \"checked\": true}], \"input_token_count\": 223, \"output_token_count\": 190, \"time_taken\": \"0:00:05.912114\"}",
+        "message_id": "guest26082024005805",
+        "timestamp": "26082024010017",
+        "component_file_name": "purple_header_component_1724633852",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want the 'Hadoken' button to be positioned on the page?\", \"option1\": \"Above the fold (Top section of the website visible without scrolling)\", \"option2\": \"Below the fold (Section of the website that requires scrolling to see)\"}, {\"question 2\": \"What action should occur when the 'Hadoken' button is clicked?\", \"option1\": \"Display an informational pop-up\", \"option2\": \"Redirect to another page\"}], \"input_token_count\": 269, \"output_token_count\": 109, \"time_taken\": \"0:00:03.411880\"}",
+        "message_id": "guest26082024005805",
+        "timestamp": "26082024010015",
+        "component_file_name": "purple_header_component_1724633852",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "On it, adding a button that says \"Hadoken\".",
+        "message_id": "guest26082024005805",
+        "timestamp": "26082024010010",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hadoken",
+        "message_id": "guest26082024005805",
+        "timestamp": "26082024010009",
+        "component_file_name": "purple_header_component_1724633852",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "28082024142014",
         "message_id": "guest28082024142013"
     }
 ]
