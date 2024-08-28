@@ -42,5 +42,11 @@
         "content": "Add a form to contact santa via email",
         "timestamp": "28082024141855",
         "message_id": "guest28082024141853"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the contact form to be accessible from a specific section of the app or available as a floating action button on all pages?\", \"option1\": \"Specific section of the app\", \"option2\": \"Floating action button on all pages\"}, {\"question 2\": \"Do you have a preference for the fields to be included in the contact form? (e.g., Name, Email, Message)\", \"option1\": \"Yes, I have specific fields in mind\", \"option2\": \"No, standard fields are fine (Name, Email, Message)\"}], \"input_token_count\": 270, \"output_token_count\": 129, \"time_taken\": \"0:00:03.575450\"}",
+        "timestamp": "28082024141859",
+        "message_id": "guest28082024141853"
     }
 ]
