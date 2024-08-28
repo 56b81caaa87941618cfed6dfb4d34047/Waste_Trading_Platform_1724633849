@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a gallery of before-and-after cleanup images\", \"checked\": true}, {\"feature\": \"Integrate a map showing nearby recycling and disposal facilities\", \"checked\": false}, {\"feature\": \"Implement a review system for users to rate garbage disposal services\", \"checked\": true}, {\"feature\": \"Introduce a notification system for waste pickup schedules\", \"checked\": false}, {\"feature\": \"Offer a feature to report illegal dumping sites with photo uploads\", \"checked\": true}], \"input_token_count\": 358, \"output_token_count\": 111, \"time_taken\": \"0:00:05.073681\"}",
+        "message_id": "guest28082024142134",
+        "timestamp": "28082024142141",
+        "component_file_name": "purple_background_cta_component_1724633852",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the toilet image to be positioned on your webpage?\", \"option1\": \"Replace the current main image\", \"option2\": \"Add it as a new section/background\"}, {\"question 2\": \"Do you have a specific toilet image in mind or should we select one for you?\", \"option1\": \"I will provide the image\", \"option2\": \"Please select a suitable image for me\"}], \"input_token_count\": 404, \"output_token_count\": 99, \"time_taken\": \"0:00:03.480129\"}",
         "message_id": "guest28082024142134",
