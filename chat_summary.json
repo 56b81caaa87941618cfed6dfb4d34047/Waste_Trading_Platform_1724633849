@@ -1,5 +1,23 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add interactive 3D models of items for sale\", \"checked\": true}, {\"feature\": \"Implement an image carousel on item detail pages\", \"checked\": false}, {\"feature\": \"Include an image recognition feature to suggest categories during item uploads\", \"checked\": true}, {\"feature\": \"Offer customizable avatars for user profiles, including dinosaur options\", \"checked\": true}, {\"feature\": \"Introduce a 'Photo vs Reality' rating system for item condition\", \"checked\": false}, {\"feature\": \"Enable a virtual trial room where users can place 3D models of items in their space\", \"checked\": false}], \"input_token_count\": 283, \"output_token_count\": 144, \"time_taken\": \"0:00:05.295427\"}",
+        "message_id": "guest28082024142013",
+        "timestamp": "28082024142020",
+        "component_file_name": "purple_background_cta_component_1724633852",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like this new dinosaur image to replace an existing image, or is it to be added as a new element on the page?\", \"option1\": \"Replace an existing image\", \"option2\": \"Add as a new element\"}, {\"question 2\": \"What is the intended purpose or theme of the dinosaur image? Is it for decorative purposes or part of a functional feature?\", \"option1\": \"Decorative purposes\", \"option2\": \"Part of a functional feature\"}], \"input_token_count\": 329, \"output_token_count\": 112, \"time_taken\": \"0:00:03.636415\"}",
+        "message_id": "guest28082024142013",
+        "timestamp": "28082024142018",
+        "component_file_name": "purple_background_cta_component_1724633852",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it. Changing the image to a dinosaur.",
         "message_id": "guest28082024142013",
@@ -72,27 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "On it, adding a button that says \"Hadoken\".",
-        "message_id": "guest26082024005805",
-        "timestamp": "26082024010010",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button that says hadoken",
-        "message_id": "guest26082024005805",
-        "timestamp": "26082024010009",
-        "component_file_name": "purple_header_component_1724633852",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "28082024142014",
+        "content": "In a recent conversation, the user asked the AI assistant to add a button labeled \"Hadoken\". The AI acknowledged the request with \"On it, adding a button that says 'Hadoken'\". Following this, the AI sought further clarification by asking the user to describe the project in more detail. Additionally, the AI noted its training data is current only up to October 2023.",
+        "timestamp": "28082024142020",
         "message_id": "guest28082024142013"
     }
 ]
