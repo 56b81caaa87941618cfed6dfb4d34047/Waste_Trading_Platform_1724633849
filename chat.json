@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like this new dinosaur image to replace an existing image, or is it to be added as a new element on the page?\", \"option1\": \"Replace an existing image\", \"option2\": \"Add as a new element\"}, {\"question 2\": \"What is the intended purpose or theme of the dinosaur image? Is it for decorative purposes or part of a functional feature?\", \"option1\": \"Decorative purposes\", \"option2\": \"Part of a functional feature\"}], \"input_token_count\": 329, \"output_token_count\": 112, \"time_taken\": \"0:00:03.636415\"}",
+        "message_id": "guest28082024142013",
+        "timestamp": "28082024142018",
+        "component_file_name": "purple_background_cta_component_1724633852",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it. Changing the image to a dinosaur.",
         "message_id": "guest28082024142013",
