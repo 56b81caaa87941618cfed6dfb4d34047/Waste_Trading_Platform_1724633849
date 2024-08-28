@@ -4,5 +4,6 @@
     "project_description": "garbage market place",
     "creation_time": "2024-08-25 20:57:29.855596",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "stellar"
+    "selected_starter_template_id": "stellar",
+    "frontend_theme_prompt": "The image features a vibrant color scheme consisting mainly of pink and purple hues, with neon accents creating a surreal and futuristic atmosphere against a celestial landscape. The style includes mystical elements like dramatic mountains, luminous planets, and reflective waters, evoking a dreamlike sci-fi scene."
 }
