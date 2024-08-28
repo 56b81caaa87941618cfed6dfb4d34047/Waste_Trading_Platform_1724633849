@@ -98,7 +98,6 @@ export default {
     // End of Santa contact form submission method
   }
 };
-};
 </script>
 
 <style scoped>
