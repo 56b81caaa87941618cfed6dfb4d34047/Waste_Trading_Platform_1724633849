@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Add a form to contact santa via email",
+        "message_id": "guest28082024141853",
+        "timestamp": "28082024141855",
+        "component_file_name": "purple_background_cta_component_1724633852",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, adding a contact form for emailing Santa now.",
         "message_id": "guest28082024141853",

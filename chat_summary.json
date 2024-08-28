@@ -36,5 +36,11 @@
         "content": "Got it, adding a contact form for emailing Santa now.",
         "timestamp": "28082024141855",
         "message_id": "guest28082024141853"
+    },
+    {
+        "role": "user",
+        "content": "Add a form to contact santa via email",
+        "timestamp": "28082024141855",
+        "message_id": "guest28082024141853"
     }
 ]
