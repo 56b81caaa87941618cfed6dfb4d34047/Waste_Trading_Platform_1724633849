@@ -1,3 +1,7 @@
+<!-- 
+INSTRUCTION: Summary: The section has a blurred radial gradient background and a call-to-action (CTA) content block.
+INSTRUCTION: It is centered on the page and includes a gradient-based title, a subtitle, a paragraph of text, and a button with a gradient background.
+-->
 <template>
   <section id="cta-section-container">
     <div id="section-container" class="max-w-6xl mx-auto px-4 sm:px-6 bg-white">
@@ -45,7 +49,7 @@
           </a>
 
           <!-- Image addition -->
-          <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Waste_Trading_Platform_1724633849/main/images/1edfae117bbf4c599c88d9696d71d955.jpeg" alt="Treasure from Trash" class="mt-8 rounded-lg shadow-lg">
+          <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Waste_Trading_Platform_1724633849/main/images/40ac9de632764a7f9d841385451a856c.jpeg" alt="Treasure from Trash" class="mt-8 rounded-lg shadow-lg">
 
           <!-- Santa Contact Form -->
           <form id="santa-contact-form" class="mt-8 space-y-4">
