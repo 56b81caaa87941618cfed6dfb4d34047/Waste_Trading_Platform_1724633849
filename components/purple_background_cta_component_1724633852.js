@@ -48,28 +48,6 @@ INSTRUCTION: It is centered on the page and includes a gradient-based title, a s
             Get Started
             <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span>
           </a>
-
-          <!-- Santa Contact Form -->
-          <form id="santa-contact-form" class="mt-8 space-y-4">
-            <div>
-              <label for="name" class="block text-sm font-medium text-slate-300">Name</label>
-              <input type="text" id="name" name="name" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-purple-500 focus:ring-purple-500 bg-white/10 text-white">
-            </div>
-            <div>
-              <label for="email" class="block text-sm font-medium text-slate-300">Email</label>
-              <input type="email" id="email" name="email" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-purple-500 focus:ring-purple-500 bg-white/10 text-white">
-            </div>
-            <div>
-              <label for="message" class="block text-sm font-medium text-slate-300">Message to Santa</label>
-              <textarea id="message" name="message" rows="4" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-purple-500 focus:ring-purple-500 bg-white/10 text-white"></textarea>
-            </div>
-            <div>
-              <button type="submit" class="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-purple-600 hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500">
-                Send to Santa
-              </button>
-            </div>
-          </form>
-
         </div>
       </div>
     </div>
@@ -84,20 +62,7 @@ export default {
       expanded: false,
       tab: null
     };
-  },
-  methods: {
-    // Santa contact form submission method
-    submitSantaForm(event) {
-      event.preventDefault();
-      const name = this.$refs.name.value;
-      const email = this.$refs.email.value;
-      const message = this.$refs.message.value;
-      console.log('Sending message to Santa:', { name, email, message });
-      // Add your form submission logic here
-    }
-    // End of Santa contact form submission method
   }
-};
 };
 </script>
 
